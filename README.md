@@ -1,5 +1,7 @@
 # A Report on CO2 emissions and Predictions for a better future
 # Method: Data Theory Analytics, Machine learning, Reporting, Data Visualization
+# Final report is available in PDF in the same repository. 
+
 
 You'll get a lot of freedom in doing this assignment but that also means you have to make choices and explain the reasoning behind those choices in your report.
 
