@@ -1,6 +1,9 @@
-# This is your final assignment. You'll get a lot of freedom in doing this assignment but that also means you have to make choices and explain the reasoning behind those choices in your report.
+# A Report on CO2 emissions and Predictions for a better future
+# Method: Data Theory Analytics, Machine learning, Reporting, Data Visualization
 
-For this assignment you can use any dataset you can find from the Our World in Data website.(opens in a new tab)
+You'll get a lot of freedom in doing this assignment but that also means you have to make choices and explain the reasoning behind those choices in your report.
+
+For this assignment you can use any dataset you can find from the Our World in Data website.
 
 Please formulate an answer to the following three questions in your report.
 
